@@ -1,40 +1,4 @@
-The Project Gutenberg EBook of The Animal World, A Book of Natural History, by
-Theodore Wood
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Animal World, A Book of Natural History
-       Young Folks' Treasury (Volume V)
-
-Author: Theodore Wood
-
-Editor: Ernest Ingersoll
-
-Release Date: March 26, 2013 [EBook #42414]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE ANIMAL WORLD ***
-
-
-
-
-Produced by Juliet Sutherland and the Online Distributed
-Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 42414 ***
 
 [Illustration: TROPICAL AMERICAN HUMMING-BIRDS]
 
@@ -351,7 +315,7 @@ Few writers have been so successful in handling this subject. His style
 is singularly attractive to the young readers whom he has in view; yet
 he does not depart from accuracy, nor exaggerate with false emphasis
 some unusual phase of an animal's character, which is the fault of many
-who try to "popularize" zooelogy.
+who try to "popularize" zoölogy.
 
 One may feel confident, therefore, that the boy or girl who opens this
 volume will enjoy it and profit by it. The sketch dwells on the animals
@@ -451,7 +415,7 @@ of the forest.
 
 A CLEVER SPECIMEN
 
-If you visit the zooelogical gardens in New York, London, or some other
+If you visit the zoölogical gardens in New York, London, or some other
 city, you may be quite sure of seeing one or more chimpanzees. They are
 nearly always brought to the zoos when they are quite young, and the
 keepers teach them to perform all kinds of clever tricks. One of them in
@@ -540,7 +504,7 @@ female animal and the little ones sleep. And if it is mortally wounded,
 it nearly always makes a platform of branches in the same way, and sits
 upon it waiting for death.
 
-Orangs are often to be seen in zooelogical gardens, although they are so
+Orangs are often to be seen in zoölogical gardens, although they are so
 delicate that they do not thrive well in captivity. One of these
 animals, which lived in the London Zoo for some time, had learned a very
 clever trick. Leaning up against his cage was a placard, on which were
@@ -986,7 +950,7 @@ slightest use.
   3. Japanese Red-faced Monkey.       4. White-faced Sapajou.
   5. Siamang Gibbon.                  6. Chimpanzee "Polly."
 
-_All lived in the New York Zooelogical Park._]
+_All lived in the New York Zoölogical Park._]
 
 
 SPIDER-MONKEYS
@@ -3629,7 +3593,7 @@ AMERICAN FOXES
 Besides the arctic fox, which of course is found in American as well as
 other arctic regions, this country has many species of fox that belong
 peculiarly to itself. William T. Hornaday, director of the New York
-Zooelogical Park, who has written many instructive things about animals,
+Zoölogical Park, who has written many instructive things about animals,
 tells us in his "American Natural History" that north of Mexico this
 continent has sixteen distinct species of foxes, some of which have
 several subspecies.
@@ -4320,7 +4284,7 @@ The grizzly is a very distinct race of brown bear. It has a flat
 profile, like the polar bear. This enormous creature is barely able to
 climb trees, and has the largest claws of any--they have been known to
 measure five inches along the curve. The true grizzly, which used to be
-found as far north as 61� latitude and south as far as Mexico, is a rare
+found as far north as 61º latitude and south as far as Mexico, is a rare
 animal now. Its turn for cattle-killing made the ranchmen poison it, and
 rendered the task an easy one. It is now only found in the northern
 Rocky Mountains and parts of northern California and Nevada. Formerly
@@ -4496,7 +4460,7 @@ piece of bread or biscuit it will take it in its fore paws, just as if
 the animal were a monkey, and then go and rinse it carefully in the
 little pond in the middle of its cage. It never eats a scrap of food
 without washing it in this curious manner, and for this reason the
-Germans have given it the name of "Waschbaer" or "washing-bear."
+Germans have given it the name of "Waschbär" or "washing-bear."
 
 The fur of the racoon is so soft and thick that it is very valuable, and
 the animal is very much hunted. It is generally hunted by night, the
@@ -7142,7 +7106,7 @@ elephant were to stand upon another elephant's back a giraffe could look
 over them both.
 
 This wonderful height is chiefly due to the great length of the neck.
-Yet there are only seven _vertebrae_, or joints of the spine, in
+Yet there are only seven _vertebræ_, or joints of the spine, in
 that part of the body, just as there are in our own necks. But then each
 of these joints may be as much as a foot long! When the animal is
 hungry, its height is of very great use to it, enabling it to feed upon
@@ -7513,7 +7477,7 @@ brockets, are found in South America. These are the Chilean and Ecuador
 pudus, of which the former is only about thirteen inches in height, the
 latter about fourteen or fifteen inches. Little is known of the history
 and life habits of these charming little creatures, one of which, the
-Chilean species, has occasionally been seen in zooelogical gardens.
+Chilean species, has occasionally been seen in zoölogical gardens.
 
 
 CAMELS
@@ -7651,7 +7615,7 @@ consider that they have had a proper rest!
 ZEBRAS
 
 There are three different kinds of these beautiful animals. The largest
-and finest is known as Grevy's zebra, which is found in the mountains of
+and finest is known as Grévy's zebra, which is found in the mountains of
 Somaliland. It has many more stripes than the other two, while the
 ground color is quite white. The smallest is the mountain zebra, which
 is only about as big as a good-sized pony, and has its legs striped
@@ -7836,7 +7800,7 @@ to his old life, a 'free and fetterless creature.'
 
 [Illustration: WILD RELATIVES OF THE HORSE.
 
-  1. Northern or Grevy's Zebra.       2. Abyssinian Ass.
+  1. Northern or Grévy's Zebra.       2. Abyssinian Ass.
   3. Southern (or Burchell's) Zebra.  4. Przwalsky's Central-Asian Horse.]
 
 "No one has ever yet settled the question whether he is a horse or an
@@ -10189,7 +10153,7 @@ their feathers to put on hats!
 
 Very little is known about the habits of birds of paradise, for few
 people ever have the opportunity of seeing them in their native forests,
-and they are almost unknown in zooelogical gardens because they usually
+and they are almost unknown in zoölogical gardens because they usually
 die almost immediately when placed in captivity in a strange country.
 
 
@@ -10541,7 +10505,7 @@ THE NIGHTINGALE
 
 Perhaps no bird in the world is so famous as a songster as the
 nightingale, largely because of its habit of singing in the night, for
-its music is not preeminent above that of several other thrushes. The
+its music is not preëminent above that of several other thrushes. The
 nightingale spends the winter in Africa, returning to Central
 Europe in April, and after that in the warmer parts of Great Britain and
 the continent it may be heard every night for weeks, especially when the
@@ -12183,16 +12147,16 @@ about some of them, we must tell you some thing about the wonderful way
 in which their bodies are made.
 
 In the first place, then, remember that snakes have a very large number
-of those sections or pieces forming the spine which we call vertebrae. We
+of those sections or pieces forming the spine which we call vertebræ. We
 ourselves have only thirty-three of these little parts when we begin
 life, and twenty-six afterward; this difference in number being caused
 by the fact that five of the joints very soon unite into a bony mass at
 the lower end, which we call sacrum, while four more unite into another,
 which we call the coccyx. But some snakes have hundreds of these
-vertebrae. The boas, for example, have no less than three hundred and
+vertebræ. The boas, for example, have no less than three hundred and
 four!
 
-In the next place, remember that all these vertebrae are fastened
+In the next place, remember that all these vertebræ are fastened
 together by what we call ball-and-socket joints. That is, there is a
 round knob at the back of each vertebra which fits into a socket in
 front of the vertebra behind it. This gives to the spine of a snake
@@ -12207,7 +12171,7 @@ in front. But a snake may have as many as two hundred and fifty-two
 pairs of ribs, while it has no breast-bone at all; so that the tips of
 all the ribs are free. And every rib is fastened to a vertebra of the
 spine by a ball-and-socket joint, just like those which fasten the
-vertebrae themselves together. Besides this, there are no less than five
+vertebræ themselves together. Besides this, there are no less than five
 separate sets of muscles connected with the ribs, so that the snake can
 move those bones about quite easily.
 
@@ -12341,7 +12305,7 @@ these snakes as it was eating an egg, you would see a very strange thing
 happen. The egg would pass down the throat, and for a few inches you
 would be able to watch its outline as it moved along toward the stomach.
 Then, quite suddenly, the swelling would disappear! The fact is this.
-About thirty of the vertebrae have each a long, slender spine springing
+About thirty of the vertebræ have each a long, slender spine springing
 from the lower surface, and the tips of these spines pass through the
 upper part of the throat and project inside it, just like a row of
 little teeth in the wrong place. Just as the egg, while it is being
@@ -13358,7 +13322,7 @@ captured in that part of the Thames which is under the control of the
 Lord Mayor of London, it belongs by right to the Crown.
 
 
-THE BEAKED CHAETODON
+THE BEAKED CHÆTODON
 
 A great many fishes are very odd to look at, and this is one of the
 oddest. Imagine a fish with an almost circular flattened body, with five
@@ -13937,7 +13901,7 @@ these legs the beetle digs, using them with such address that in the
 course of an hour or two it will sink a hole in the ground ten or twelve
 inches deep, in order to lay its eggs at the bottom.
 
-The famous Scarabaeus of Egypt, which in days of old some of the people
+The famous Scarabæus of Egypt, which in days of old some of the people
 of that country used to revere, because they thought it a symbol of
 immortality, is really a kind of dor-beetle.
 
@@ -14735,7 +14699,7 @@ so local that hardly anybody ever sees them.
 
 MOTHS
 
-You can easily tell moths from butterflies by looking at their antennae,
+You can easily tell moths from butterflies by looking at their antennæ,
 or feelers, which have no knobs at the tips, as those of
 butterflies have. Their number also is very great, and we can mention
 only a few of the most remarkable.
@@ -14841,7 +14805,7 @@ fed it spins a hard, oval cocoon in a crack in the bark. And there are
 three smaller moths belonging to the same family, which are known as
 kittens!
 
-Another very large group of moths is that of the _Noctuae_, or
+Another very large group of moths is that of the _Noctuæ_, or
 night-fliers. But we so seldom see these unless we go out specially to
 look for them that we shall pass them by without further mention.
 
@@ -15508,7 +15472,7 @@ or segments, like those of the insects. But there are always twenty of
 these rings, instead of thirteen; six forming the head, while there are
 eight in the thorax and six in the hind body.
 
-Then--again like the insects--crustaceans have feelers, or antennae, upon
+Then--again like the insects--crustaceans have feelers, or antennæ, upon
 their heads. You can see these very well indeed in a lobster or a
 shrimp. But instead of having one pair of these organs, as insects have,
 they always possess two pairs. And it is rather curious to find that at
@@ -15530,7 +15494,7 @@ Inside each of these eggs an odd little creature is formed, which is
 called the nauplius. Sometimes it is hatched while still in that state,
 and swims about through the water. But in almost all the higher
 crustaceans a change takes place before it leaves the egg, and it
-appears at last in the form of a zoea.
+appears at last in the form of a zoëa.
 
 This is a kind of crustacean caterpillar, and a very odd little creature
 it is. A great naturalist once described it as an animal "with goggle
@@ -15540,7 +15504,7 @@ does not look in the least like the crab, or lobster, or shrimp into
 which it is going, by and by, to turn. And it swims in the oddest way
 possible, by turning endless somersaults in the water!
 
-These zoeas are sometimes found in immense shoals, the surface of the
+These zoëas are sometimes found in immense shoals, the surface of the
 sea being quite thick with them for miles. And they are useful little
 creatures, for they feed on the tiny scraps of decaying matter which are
 always floating about in the sea, just as tadpoles and gnat-grubs do in
@@ -15550,11 +15514,11 @@ swim with open mouths through a shoal of these little creatures, and
 then strain them out of the water by means of the whalebone fringe which
 hangs down from the upper jaw.
 
-After a time the zoea throws off its skin and appears in quite a
+After a time the zoëa throws off its skin and appears in quite a
 different form. It is now called a megalopa, or big-eyed creature,
 because it has very large eyes, which are usually set on foot-stalks,
 and project to quite a long distance from the sides of the head. And as
-the zoea is a kind of crustacean caterpillar, so the megalopa is a kind
+the zoëa is a kind of crustacean caterpillar, so the megalopa is a kind
 of crustacean chrysalis. It generally has a long, slender body, made up
 of several joints. And it swims by flapping this to and fro in the
 water.
@@ -15873,7 +15837,7 @@ so far that it actually reaches the blubber.
 
 The young of these strange creatures pass through several
 transformations, just like those of the lobster and the crab. First,
-there is a nauplius, then a zoea, and then a megalopa, all of which swim
+there is a nauplius, then a zoëa, and then a megalopa, all of which swim
 freely about in the water, never fastening themselves down until they
 are ready to pass into the perfect form.
 
@@ -15911,7 +15875,7 @@ which have rolled themselves up into balls.
 
 When the animal is alive it can move these spines at will, each of them
 being fastened to the shell by a ball-and-socket joint, just like those
-which we described to you when we were telling about the vertebrae of the
+which we described to you when we were telling about the vertebræ of the
 snakes. But after it has been dead for a few days they are nearly always
 knocked off by the action of the waves, so that the shell is left quite
 smooth and bare.
@@ -17997,7 +17961,7 @@ marsh, and we can get into a rough little boat and paddle down toward
 that old wharf whose weedy piles are covered with interesting things,
 which we may examine now that the ebbing tide has left them uncovered
 for a few hours. The peaty banks, with their growth of harsh salt-grass
-and algae, will keep our eyes busy as we float along the black and
+and algæ, will keep our eyes busy as we float along the black and
 winding creek.
 
 Now we shall get acquainted with some of the crabs. Look sharply down
@@ -18023,7 +17987,7 @@ They are the homes of little fiddler-crabs, which scuttle into them by
 the hundred as we approach, and then creep up to peer out after we have
 passed by, and make sure it is safe to go abroad again. In other holes
 live two other sorts of burrowing crabs. One is the little mud-crab
-(_Panopaeus_), which is a peaceful cousin of the fiddler; and the
+(_Panopæus_), which is a peaceful cousin of the fiddler; and the
 other is the sand-crab (_Ocypoda_) whose peculiarity it is to be
 perfectly sand-colored, so that it is almost impossible to see him until
 he moves; consequently he is commonly found only in the sandy places.
@@ -18098,7 +18062,7 @@ open sea.
 
 Here, too, are small red and yellow sponges; some coarse little
 sea-anemones, etc.; and wandering over the whole, feeding upon one or
-another of these, and cleaning the polyps and polyzoans off the algae,
+another of these, and cleaning the polyps and polyzoans off the algæ,
 are a sort of marine daddy-long-legs, called no-body crabs, because they
 seem all legs and look crab-like.
 
@@ -18182,7 +18146,7 @@ misfortune of all, it is constantly sought by fishermen for bait. In
 spite of all this, clam-worms of all kinds remain immensely numerous all
 along the coast. On calm summer nights they leave their burrows, swim up
 to the surface at high tide, and cast out vast numbers of eggs, from
-which presently hatch little pear-shaped larvae, which swim about a short
+which presently hatch little pear-shaped larvæ, which swim about a short
 time, when the few that have survived settle down, change to the
 worm-like form, and burrow into the mud.
 
@@ -18332,7 +18296,7 @@ eggs. It fastens them down to the surface of the rock by little stalks,
 so that they look like tiny egg-cups with eggs inside them; therefore
 when these eggs hatch, several little purpura come out of each cup.
 
-All the small periwinkles feed upon the algae, but with the purpura,
+All the small periwinkles feed upon the algæ, but with the purpura,
 which seems to live mainly on young barnacles, we come to a lot of
 flesh-eaters--small mollusks of prey, as we might say.
 
@@ -18503,7 +18467,7 @@ especially in Long Island Sound; and the oystermen gather them from the
 beaches and from their dredgings, and scatter their shells over the
 floor of the sound as "seats" for young oysters. They are especially
 useful for this purpose because they are so slight and brittle that
-when, as often happens, two or three minute oyster-larvae settle down on
+when, as often happens, two or three minute oyster-larvæ settle down on
 one of these shells, they will, as they grow, break it apart by the
 strain, and then each oyster, relieved from the crowding of its mates,
 will form a round, nicely shaped shell instead of a narrow or misshapen
@@ -18742,7 +18706,7 @@ In such pools, and in the mud among the stones near low-tide mark, lie
 buried several kinds of worms which poke their heads up into the water
 above them when the tide comes in, and expand tufts of pink, or crimson,
 or yellow gills and tentacles, the latter used to catch minute
-floating food--mainly the microscopic larvae of various mollusks, worms,
+floating food--mainly the microscopic larvæ of various mollusks, worms,
 etc.--and also, in some cases, to drag to them the grains of sand out of
 which they construct their tubes. One of these is the fringed worm
 (_Cirratulus_) whose gills are like long orange-colored threads;
@@ -19161,7 +19125,7 @@ LIST OF BEST BOOKS FOR YOUNG NATURALISTS
 
   MORLEY, MARY W.                       _Wasps and their Ways_
 
-  OSWALD, FELIX                          _Zooelogical Sketches_
+  OSWALD, FELIX                          _Zoölogical Sketches_
 
   PACKARD, A. S.                     _Half-hours with Insects_
 
@@ -19287,7 +19251,7 @@ INDEX
     "  kalong, 32
     "  pipistrelle, 29
     "  vampire, 30
-  Beaked chaetodon, 34
+  Beaked chætodon, 34
   Bear-cat, 110
   Bears, 102
     "  ant, 213
@@ -19420,7 +19384,7 @@ INDEX
   Caymans, 303
   Centipedes, 395
   Chacma, 7
-  Chaetodon, beaked, 34
+  Chætodon, beaked, 34
   Chambered nautilus, 416
   Chameleon, 308
   Chamois, 174
@@ -19718,7 +19682,7 @@ INDEX
   Greenland whale, 127
   Green monkey, 13
     "  turtle, 301
-  Grevy's zebra, 192
+  Grévy's zebra, 192
   Grizzly bear, 106
   Grosbeak, 260
   Ground-beetles, 355
@@ -20025,7 +19989,7 @@ INDEX
   Nightingale, 267
   Nightjars, 244
   Night-monkeys, 20
-  Noctuae, 380
+  Noctuæ, 380
   Nuthatch, 264
   Nut-weevil, 359
 
@@ -20202,7 +20166,7 @@ INDEX
   Saw-fishes, 339
   Saw-flies, 374
   Scaly ant-eater, 215
-  Scarabaeus, 357
+  Scarabæus, 357
   Scarlet ibis, 290
   Scarlet tanager, 444
   Scavengers, 356
@@ -20512,9 +20476,9 @@ INDEX
 
   Zebra, 192
     "  Burchell's, 192
-    "  Grevy's, 192
+    "  Grévy's, 192
     "  mountain, 192
-  Zoea, 408
+  Zoëa, 408
 
 
        *       *       *       *       *
@@ -20583,360 +20547,4 @@ spelling, punctuation, and hyphenation have been retained.
 End of the Project Gutenberg EBook of The Animal World, A Book of Natural
 History, by Theodore Wood
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE ANIMAL WORLD ***
-
-***** This file should be named 42414.txt or 42414.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/2/4/1/42414/
-
-Produced by Juliet Sutherland and the Online Distributed
-Proofreading Team at http://www.pgdp.net
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 42414 ***
